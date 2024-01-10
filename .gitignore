@@ -1,5 +1,6 @@
 data.csv
 infer.csv
+unlabelled.csv
 data/*
 !data/.gitkeep
 infer/*
