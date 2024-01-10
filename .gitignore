@@ -1,0 +1,8 @@
+data.csv
+infer.csv
+data/*
+!data/.gitkeep
+infer/*
+!infer/.gitkeep
+model/*
+!model/.gitkeep
