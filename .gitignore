@@ -1,9 +1,10 @@
-data.csv
-infer.csv
-unlabelled.csv
+*.csv
+
 data/*
 !data/.gitkeep
+
 infer/*
 !infer/.gitkeep
+
 model/*
 !model/.gitkeep
